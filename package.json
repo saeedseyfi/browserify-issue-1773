@@ -1,0 +1,19 @@
+{
+  "name": "browserify-issue",
+  "version": "1.0.0",
+  "description": "An issue demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no test'; exit 1;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeedseyfi/browserify-issue.git"
+  },
+  "author": "Saeed Seyfi <me@saeedseyfi.com> (http://saeedseyfi.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saeedseyfi/browserify-issue/issues"
+  },
+  "homepage": "https://github.com/saeedseyfi/browserify-issue#readme"
+}
