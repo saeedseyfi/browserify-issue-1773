@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/saeedseyfi/browserify-issue/issues"
   },
-  "homepage": "https://github.com/saeedseyfi/browserify-issue#readme"
+  "homepage": "https://github.com/saeedseyfi/browserify-issue#readme",
+  "devDependencies": {
+    "browserify": "^14.5.0"
+  }
 }
