@@ -1,7 +1,7 @@
 # Demo
 
 ```
-$ git clone https://github.com/saeedseyfi/browserify-issue.git
+$ git clone https://github.com/saeedseyfi/browserify-issue-1773.git
 $ cd browserify-issue
 $ npm i
 $ ./node_modules/.bin/browserify library/src/core.js > library/build.js
